@@ -4,6 +4,11 @@
 
 ---
 
+## 🎨 Vista previa
+![DinoGame](https://i.imgur.com/7HkRDuN.png)
+
+---
+
 ## 🚀 Características principales
 - **Temáticas personalizadas**:
   - Desierto 🌵
@@ -67,5 +72,3 @@ Este proyecto está bajo la licencia **MIT**. Siéntete libre de usarlo y modifi
 
 ---
 
-## 🎨 Vista previa
-![DinoGame](https://i.imgur.com/7HkRDuN.png)
