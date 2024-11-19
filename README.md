@@ -13,7 +13,7 @@
 - **Temáticas personalizadas**:
   - Desierto 🌵
   - Bosque 🌲
-  - Espacio 🌙
+  - Luna 🌙
 - **Patrones de diseño implementados**:
   - **Singleton**: Para gestionar instancias únicas dentro del juego.
   - **Abstract Factory**: Para crear temáticas y obstáculos específicos.
